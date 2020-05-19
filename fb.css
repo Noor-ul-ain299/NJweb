@@ -1,0 +1,202 @@
+*{
+	padding:0px;
+margin:0px;
+}
+
+
+body{
+}
+header{
+	
+	   background:#3B5999;
+	   height:82px;
+	   border-bottom:1px solid #3E547D;
+	   }
+.header-block{
+	  width:992px;
+	  margin:0 auto;
+	  padding-top:20px;
+	}
+	
+.logo{  
+width:50%;
+float:left;
+	}
+.facebook-login{
+	width:50%;
+   float:left;
+   }
+.logo img  {
+	padding-top:10px;
+padding-bottom:20px;}
+
+.header-block label{
+	     color:white;
+		  }
+		  
+.email{  float:left;
+}
+.email label{
+padding-bottom:10px;}
+
+.email input[type="text"]{
+	height:20px;
+	width:150px;
+	border:1px solid #1C3051; 
+}
+
+.password{ float:left;
+margin-left:10px;
+
+}
+.password input[type="password"]{
+	height:20px;
+	width:150px;
+	border:1px solid #1C3051; 
+}
+.password a{
+	color:#7191CE;
+	text-decoration:none;
+}
+
+
+.password label{
+padding-bottom:10px;}
+
+.login-button{
+	   float:20px 30px;
+	   margin-top:10px ;
+	   margin-left:10px;
+	   padding-top:10px;
+	}
+.login-button input[type="submit"] {
+		  background:#4069A9;
+		  border:1px solid #2F519B;
+		  border-radius:2px;
+		  color:white;
+		  height:20px;
+		  width:50px;
+		  float:left;
+margin-left:10px;
+}
+.clearfix{
+	clear:both;
+}
+.a{
+	 position:absolute; 
+     color: #0e385f;
+    margin-top:30px;
+left: 200px;
+font-size:20px;
+font-weight:bold;
+}
+
+.form{
+position:absolute;
+float:right;
+top:120px;
+left:800px;
+}
+
+.img{
+	margin-top:40px;
+}
+.b{
+	font-weight:bold;
+	font-size:40px;
+	 padding-bottom:10px;}
+	
+.c{
+	font-weight:none;
+	font-size:20px;
+  padding-bottom:10px;
+	}
+.form input[type='text']{
+	
+	margin-bottom:15px;
+	border-radius:5px;
+	font-size:18px;
+	padding:10px;
+	border:1px solid #bdc7d8;
+}
+.form input[type='password']{
+
+
+	margin-bottom:15px;
+	padding:10px;
+	font-size:18px;
+	border-radius: 5px;
+	margin-left:0px;
+	border:1px solid #bdc7d8;
+}
+.form .mobile, .form .password{
+	width: 84%; !important;
+}
+.form label{
+	  font-weight:bold;
+	  font-size:18px;
+margin-bottom:15px;}
+	
+	
+.form a{
+	  text-decoration:none;
+	  color:#3677bc;
+}
+.form input[type="radio"]{
+     margin-top:20px;
+     margin-bottom:20px;}
+.form .by-clicking{
+      color: #8E909D;
+}	
+form input[type="submit"]{
+	   padding:15px 22px;
+	   background:  linear-gradient(#95d67c,#65a953) ;
+	   border:1px solid #3b6e22;
+	   border-radius:5px;
+	   font-size:25px;
+	   font-color:white;
+	   margin-top:15px;
+	   margin-bottom:15px;
+	  }
+.form .z{
+		color:#7A88BC;  
+		padding-left:10px;
+	  }
+.form .p{
+	color:#75778E; 
+		  
+	  }
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
